@@ -1,0 +1,16 @@
+C:\Users\khabi\Desktop\lesson C#\PW_5\PW_5\bin\Debug\PW_5.exe.config
+C:\Users\khabi\Desktop\lesson C#\PW_5\PW_5\bin\Debug\PW_5.exe
+C:\Users\khabi\Desktop\lesson C#\PW_5\PW_5\bin\Debug\PW_5.pdb
+C:\Users\khabi\Desktop\lesson C#\PW_5\PW_5\obj\Debug\PW_5.csproj.AssemblyReference.cache
+C:\Users\khabi\Desktop\lesson C#\PW_5\PW_5\obj\Debug\PW_5.csproj.CoreCompileInputs.cache
+C:\Users\khabi\Desktop\lesson C#\PW_5\PW_5\obj\Debug\PW_5.exe
+C:\Users\khabi\Desktop\lesson C#\PW_5\PW_5\obj\Debug\PW_5.pdb
+C:\Users\khabi\Desktop\lesson C#\PW_5\PW_5\obj\Debug\PW_5.exe.config
+C:\Users\khabi\Desktop\PW_5\PW_5\bin\Debug\PW_5.exe.config
+C:\Users\khabi\Desktop\PW_5\PW_5\bin\Debug\PW_5.exe
+C:\Users\khabi\Desktop\PW_5\PW_5\bin\Debug\PW_5.pdb
+C:\Users\khabi\Desktop\PW_5\PW_5\obj\Debug\PW_5.csproj.AssemblyReference.cache
+C:\Users\khabi\Desktop\PW_5\PW_5\obj\Debug\PW_5.exe.config
+C:\Users\khabi\Desktop\PW_5\PW_5\obj\Debug\PW_5.csproj.CoreCompileInputs.cache
+C:\Users\khabi\Desktop\PW_5\PW_5\obj\Debug\PW_5.exe
+C:\Users\khabi\Desktop\PW_5\PW_5\obj\Debug\PW_5.pdb

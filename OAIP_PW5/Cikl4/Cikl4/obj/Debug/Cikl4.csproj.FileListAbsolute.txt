@@ -1,0 +1,8 @@
+C:\Users\khabi\Desktop\lesson C#\Cikl4\Cikl4\bin\Debug\Cikl4.exe.config
+C:\Users\khabi\Desktop\lesson C#\Cikl4\Cikl4\bin\Debug\Cikl4.exe
+C:\Users\khabi\Desktop\lesson C#\Cikl4\Cikl4\bin\Debug\Cikl4.pdb
+C:\Users\khabi\Desktop\lesson C#\Cikl4\Cikl4\obj\Debug\Cikl4.csproj.AssemblyReference.cache
+C:\Users\khabi\Desktop\lesson C#\Cikl4\Cikl4\obj\Debug\Cikl4.csproj.CoreCompileInputs.cache
+C:\Users\khabi\Desktop\lesson C#\Cikl4\Cikl4\obj\Debug\Cikl4.exe
+C:\Users\khabi\Desktop\lesson C#\Cikl4\Cikl4\obj\Debug\Cikl4.pdb
+C:\Users\khabi\Desktop\lesson C#\Cikl4\Cikl4\obj\Debug\Cikl4.exe.config

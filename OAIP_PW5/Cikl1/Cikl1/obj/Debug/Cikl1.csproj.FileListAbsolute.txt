@@ -1,0 +1,8 @@
+C:\Users\khabi\Desktop\lesson C#\Cikl1\Cikl1\bin\Debug\Cikl1.exe.config
+C:\Users\khabi\Desktop\lesson C#\Cikl1\Cikl1\bin\Debug\Cikl1.exe
+C:\Users\khabi\Desktop\lesson C#\Cikl1\Cikl1\bin\Debug\Cikl1.pdb
+C:\Users\khabi\Desktop\lesson C#\Cikl1\Cikl1\obj\Debug\Cikl1.csproj.AssemblyReference.cache
+C:\Users\khabi\Desktop\lesson C#\Cikl1\Cikl1\obj\Debug\Cikl1.csproj.CoreCompileInputs.cache
+C:\Users\khabi\Desktop\lesson C#\Cikl1\Cikl1\obj\Debug\Cikl1.exe
+C:\Users\khabi\Desktop\lesson C#\Cikl1\Cikl1\obj\Debug\Cikl1.pdb
+C:\Users\khabi\Desktop\lesson C#\Cikl1\Cikl1\obj\Debug\Cikl1.exe.config
