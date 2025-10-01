@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -30,7 +30,6 @@ namespace Cikl4
                     x -= 1;
                 }
 
-                // Добавим отладочный вывод
                 Console.WriteLine($"n={n}, n!={n_fact}, (n+1)!={r_fact}");
 
                 if ((n_fact <= a) && (r_fact >= a))
@@ -41,7 +40,6 @@ namespace Cikl4
                 else
                 {
                     n++;
-                    // Добавим защиту от бесконечного цикла
                     if (n > 20)
                     {
                         Console.WriteLine("Not found");
