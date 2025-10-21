@@ -1,17 +1,25 @@
 ﻿try
 {
-    int n, p;
-    bool k;
     Console.WriteLine("Сколько эл в масиве");
-    n = Convert.ToInt32(Console.ReadLine());
+    int n = Convert.ToInt32(Console.ReadLine());
+    if (n <= 0)
+    {
+        Console.WriteLine("Количество элементов должно быть больше нуля.");
+        return;
+    }
+
     int[] a = new int[n];
     Random and = new Random();
+
     Console.WriteLine("Первончальный масив");
     for (int i = 0; i < n; i++)
     {
-        a[i] = and.Next(-90, 31);
-        Console.WriteLine("\t" + a[i]);
+        a[i] = and.Next(0, 31);
+        Console.Write("\t" + a[i]);
     }
+
+    int p;
+    bool k;
     do
     {
         k = false;
@@ -25,16 +33,21 @@
                 k = true;
             }
         }
+        n--;
     } while (k);
 
-    Console.WriteLine("Bubble sort");
+    Console.WriteLine("\nBubble sort");
     foreach (int i in a)
     {
-        Console.WriteLine("\t" + i);
+        Console.Write("\t" + i);
     }
 }
-catch
+catch(FormatException)
 {
-    Console.WriteLine("Ошибка");
+    Console.WriteLine("Ошибка ввода! Нужно вводить целое число.");
+}
+catch (Exception ex)
+{
+    Console.WriteLine($"Произошла ошибка: {ex.Message}");
 }
 

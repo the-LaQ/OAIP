@@ -3,10 +3,11 @@ Console.WriteLine("Сколько эл в масиве");
 n = Convert.ToInt32(Console.ReadLine());
 double[] a = new double[n];
 Random and = new Random();
+Console.WriteLine("Первончальный масив");
 for (int i = 0; i < n; i++)
 {
     a[i] = and.Next(-10, 10);
-    Console.WriteLine("\t" + a[i]);
+    Console.Write("\t" + a[i]);
 }
 for (int i = 0; i < n; i++)
 {
@@ -16,8 +17,8 @@ for (int i = 0; i < n; i++)
     }
 }
 Array.Sort(a);
-Console.WriteLine("Новый масив");
-for (int i = 0; i < n; i++)
+Console.WriteLine("\nНовый масив");
+foreach (int i in a)   
 {
-    Console.WriteLine("\t" + a[i]);
+    Console.Write("\t" + i);
 }
