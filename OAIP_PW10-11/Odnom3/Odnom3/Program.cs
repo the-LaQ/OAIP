@@ -16,7 +16,7 @@ for (int i = 0; i < n; i++)
     }
 }
 Array.Sort(a);
-Console.WriteLine("новый масив");
+Console.WriteLine("Новый масив");
 for (int i = 0; i < n; i++)
 {
     Console.WriteLine("\t" + a[i]);
