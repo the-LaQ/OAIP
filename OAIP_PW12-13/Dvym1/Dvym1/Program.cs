@@ -11,7 +11,7 @@ for (int i = 0; i < n; i++)
 {
     for (int j = 0; j < m; j++)
     {
-        arr[i, j] = rnd.Next(0, 6);
+        arr[i, j] = rnd.Next(0, 26);
         Console.Write($"\t {arr[i, j]}");
     }
     Console.WriteLine();
@@ -38,7 +38,7 @@ for (int i = 0; i < n; i++)
 }
 Console.WriteLine($"Количество строк без нулей: {ks}");
 
-int[] count = new int[6];
+int[] count = new int[26];
 
 for (int i = 0; i < n; i++)
 {
@@ -46,6 +46,10 @@ for (int i = 0; i < n; i++)
     {
         count[arr[i, j]]++;
     }
+}
+foreach(int i in count)
+{
+    Console.WriteLine(i);
 }
 int maxRepeat = -1;
 for (int i = 0; i < count.Length; i++)
