@@ -22,7 +22,7 @@ decimal[] price =
 
 StringBuilder sb = new StringBuilder();
 sb.Append("=== Продажи за день ===\n\n");
-sb.AppendLine("<-- Списочек -->\n");
+sb.AppendLine("<-- Списочек -->");
 sb.EnsureCapacity(500);
 for (int i = 0;i< products.Length; i++)
 {
